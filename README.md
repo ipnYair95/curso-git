@@ -8,7 +8,8 @@
 ![Último commit](https://img.shields.io/github/last-commit/ipnYair95/curso-git)
 ![Licencia](https://img.shields.io/github/license/ipnYair95/curso-git)
 
-# 🦹‍♂️ La Legión del Mal desde local
+# 🦹‍♂️ La Legión del Mal - Desde local
+### Es un grupo dedicado a aprender git
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
